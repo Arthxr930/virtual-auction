@@ -1,0 +1,19 @@
+# AI 虚拟拍卖系统依赖包
+
+# DeepSeek API 客户端（使用 OpenAI SDK，DeepSeek API 兼容 OpenAI 格式）
+openai>=1.0.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 终端彩色输出
+colorama>=0.4.6
+
+# JSON 处理（Python 自带，这里标注用于说明）
+# json (built-in)
+
+# 时间处理（Python 自带）
+# datetime (built-in)
+
+# 随机数生成（Python 自带）
+# random (built-in)
